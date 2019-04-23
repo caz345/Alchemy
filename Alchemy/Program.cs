@@ -182,7 +182,7 @@ namespace Alchemy
                 {
                     return inputInt;
                 }
-                Console.WriteLine("That wasn't a number, idiot");
+                Console.WriteLine("That wasn't a number, fool");
             }
         }
 
